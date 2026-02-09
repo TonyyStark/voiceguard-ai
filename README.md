@@ -42,7 +42,7 @@ VoiceGuard AI is a production-ready voice biometric authentication system that c
 
 **Linux/macOS:**
 ```bash
-git clone https://github.com/yourusername/voiceguard-ai.git
+git clone https://github.com/TonyyStark/voiceguard-ai.git
 cd voiceguard-ai
 chmod +x scripts/setup.sh
 ./scripts/setup.sh
@@ -50,7 +50,7 @@ chmod +x scripts/setup.sh
 
 **Windows:**
 ```bash
-git clone https://github.com/yourusername/voiceguard-ai.git
+git clone https://github.com/TonyyStark/voiceguard-ai.git
 cd voiceguard-ai
 scripts\setup.bat
 ```
