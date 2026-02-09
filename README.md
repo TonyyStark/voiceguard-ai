@@ -190,7 +190,8 @@ npm test
 - Rate Limiting: Implement rate limiting for API endpoints
 - Audio Storage: Encrypt stored voice templates
 - Liveness Detection: Essential for preventing replay attacks
-###📝 Citation
+
+### 📝 Citation
 If you use VoiceGuard AI in your research, please cite:
 ```bibtex
 @software{voiceguard2024,
