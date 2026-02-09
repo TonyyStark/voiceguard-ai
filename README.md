@@ -46,3 +46,12 @@ git clone https://github.com/yourusername/voiceguard-ai.git
 cd voiceguard-ai
 chmod +x scripts/setup.sh
 ./scripts/setup.sh
+```
+
+**Windows:**
+```bash
+git clone https://github.com/yourusername/voiceguard-ai.git
+cd voiceguard-ai
+scripts\setup.bat
+```
+
