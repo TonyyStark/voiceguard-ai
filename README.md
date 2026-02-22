@@ -7,7 +7,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=next.js)](https://nextjs.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-VoiceGuard AI is a production-ready voice biometric authentication system that combines **speaker verification** with **liveness detection** to prevent replay attacks, voice cloning, and spoofing attempts.
+VoiceGuard AI is a voice biometric authentication system that combines **speaker verification** with **liveness detection** to prevent replay attacks, voice cloning, and spoofing attempts.
 
 ## 🎯 Key Features
 
